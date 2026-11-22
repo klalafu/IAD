@@ -7,3 +7,4 @@
 | № | Тема | Notebook |
 |---|---|---|
 | 1 | Базові алгоритми класифікації у Scikit-learn (датасет RT-IoT2022) | [lab1/lab1.ipynb](lab1/lab1.ipynb) |
+| 2 | Зниження розмірності, кластеризація та класифікація текстових даних (RT-IoT2022, MITRE TRAM) | [lab2/lab2.ipynb](lab2/lab2.ipynb) |
